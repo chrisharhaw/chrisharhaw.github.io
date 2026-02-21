@@ -3,7 +3,7 @@ title: "A Novel Test for MOND: Gravitational Lensing by Disk Galaxies"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-# excerpt: ''
+excerpt: ''
 date: 2025-11-24
 venue: 'The Astrophysical Journal'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'

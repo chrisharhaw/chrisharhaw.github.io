@@ -3,7 +3,7 @@ title: "Kerr-Newman memory effect"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-# excerpt: ''
+excerpt: ''
 date: 2025-03-13
 venue: 'Physical Review D'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
