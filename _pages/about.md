@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The personal academic website of Christopher Harvey-Hawes"
+title: "The personal academic website of Christopher Harvey Hawes"
 author_profile: true
 redirect_from: 
   - /about/
