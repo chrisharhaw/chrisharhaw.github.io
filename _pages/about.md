@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral research at the Center for Theoretical Physics in the Polish Academy of Sciences, Warsaw, interested in fundamental questions in physics, cosmology, and astrophysics. 
 
-My work focuses on using strong gravitational lensing to probe the nature of dark matter, dark energy, and modified gravity. I am interested in testing the standard model of comsology and its alternatives in order to investigate where they fall down and provide insight into the underlying assumptions used to build the current state-of-the-art models. Currently I am working on numerical lensing simulations in variety of different scenarios including: drift effects near caustics, gravitational lensing of gravitational waves, and lensing in modified gravity theories. 
+My work focuses on using strong gravitational lensing to probe the nature of dark matter, dark energy, and modified gravity. I am interested in testing the standard model of comsology and its alternatives in order to investigate where they fall down and provide insight into the underlying assumptions used to build current state-of-the-art models. At present, I am working on numerical lensing simulations in variety of different scenarios including: drift effects near caustics, gravitational lensing of gravitational waves, and lensing in modified gravity theories. 
 
 In 2025, I completed my PhD at the University of Canterbury under the supervision of Prof. David Wiltshire with my thesis entitled 'Strong Gravitational Lensing and its Applications in Cosmology'. Before this, I completed my Integrated Masters degree in Physics at the University of Southampton.
 
