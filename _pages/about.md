@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a postdoctoral research at the Center for Theoretical Physics in the Polish Academy of Sciences, Warsaw, interested in fundamental questions in physics, cosmology, and astrophysics. 
 
+My work focuses on using strong gravitational lensing to probe the nature of dark matter, dark energy, and modified gravity. I am interested in testing the standard model of comsology and its alternatives in order to investigate where they fall down and provide insight into the underlying assumptions used to build the current state-of-the-art models. Currently I am working on numerical lensing simulations in variety of different scenarios including: drift effects near caustics, gravitational lensing of gravitational waves, and lensing in modified gravity theories. 
+
+In 2025, I completed my PhD at the University of Canterbury under the supervision of Prof. David Wiltshire with my thesis entitled 'Strong Gravitational Lensing and its Applications in Cosmology'. Before this, I completed my Integrated Masters degree in Physics at the University of Southampton.
+
+Find out more about my publications, talks, and CV on this site. If you have any questions please do not hesitate to contact me!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! -->
 
