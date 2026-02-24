@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Christopher Harvey-Hawes"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"
+  bio              : "Postdoctoral researcher at the Center for Theoretical Physics at the Polish Academy of Sciences."
   location         : "Warsaw, Poland"
   employer         : "CFT, PAS"
   uri              : # URL
